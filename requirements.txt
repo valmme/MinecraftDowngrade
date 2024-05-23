@@ -6,3 +6,4 @@ pyperclip==1.8.2
 screeninfo==0.8.1
 typing_extensions==4.11.0
 ursina==7.0.0
+perlin_noise==1.12
